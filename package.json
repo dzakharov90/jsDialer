@@ -1,0 +1,28 @@
+{
+  "name": "js_dialer_app",
+  "version": "1.0.0",
+  "description": "predetective auto dialer app for FreeSWITCH cluster behind OpenSIPS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzakharov90/jsDialer.git"
+  },
+  "keywords": [
+    "FreeSWITCH",
+    "dialer"
+  ],
+  "author": "dzakharov90",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dzakharov90/jsDialer/issues"
+  },
+  "homepage": "https://github.com/dzakharov90/jsDialer#readme",
+  "dependencies": {
+    "expressjs": "^1.0.1",
+    "modesl": "^1.2.1",
+    "pg-promise": "^10.11.1"
+  }
+}
